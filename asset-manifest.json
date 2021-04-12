@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/mreka91/doggie-app.git/static/css/main.ecdb5659.chunk.css",
-    "main.js": "/mreka91/doggie-app.git/static/js/main.a5cafc46.chunk.js",
-    "main.js.map": "/mreka91/doggie-app.git/static/js/main.a5cafc46.chunk.js.map",
-    "runtime-main.js": "/mreka91/doggie-app.git/static/js/runtime-main.92c0f60b.js",
-    "runtime-main.js.map": "/mreka91/doggie-app.git/static/js/runtime-main.92c0f60b.js.map",
-    "static/js/2.58173eef.chunk.js": "/mreka91/doggie-app.git/static/js/2.58173eef.chunk.js",
-    "static/js/2.58173eef.chunk.js.map": "/mreka91/doggie-app.git/static/js/2.58173eef.chunk.js.map",
-    "static/js/3.21454a0c.chunk.js": "/mreka91/doggie-app.git/static/js/3.21454a0c.chunk.js",
-    "static/js/3.21454a0c.chunk.js.map": "/mreka91/doggie-app.git/static/js/3.21454a0c.chunk.js.map",
-    "index.html": "/mreka91/doggie-app.git/index.html",
-    "static/css/main.ecdb5659.chunk.css.map": "/mreka91/doggie-app.git/static/css/main.ecdb5659.chunk.css.map",
-    "static/js/2.58173eef.chunk.js.LICENSE.txt": "/mreka91/doggie-app.git/static/js/2.58173eef.chunk.js.LICENSE.txt"
+    "main.css": "/doggie-app/static/css/main.c7b93716.chunk.css",
+    "main.js": "/doggie-app/static/js/main.d982754e.chunk.js",
+    "main.js.map": "/doggie-app/static/js/main.d982754e.chunk.js.map",
+    "runtime-main.js": "/doggie-app/static/js/runtime-main.6c183abd.js",
+    "runtime-main.js.map": "/doggie-app/static/js/runtime-main.6c183abd.js.map",
+    "static/js/2.a59d994f.chunk.js": "/doggie-app/static/js/2.a59d994f.chunk.js",
+    "static/js/2.a59d994f.chunk.js.map": "/doggie-app/static/js/2.a59d994f.chunk.js.map",
+    "static/js/3.b956dc73.chunk.js": "/doggie-app/static/js/3.b956dc73.chunk.js",
+    "static/js/3.b956dc73.chunk.js.map": "/doggie-app/static/js/3.b956dc73.chunk.js.map",
+    "index.html": "/doggie-app/index.html",
+    "static/css/main.c7b93716.chunk.css.map": "/doggie-app/static/css/main.c7b93716.chunk.css.map",
+    "static/js/2.a59d994f.chunk.js.LICENSE.txt": "/doggie-app/static/js/2.a59d994f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/doggie-app/static/media/dog.fd4aa878.jfif",
+    "static/media/dog_bone.514409b8.webp": "/doggie-app/static/media/dog_bone.514409b8.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.92c0f60b.js",
-    "static/js/2.58173eef.chunk.js",
-    "static/css/main.ecdb5659.chunk.css",
-    "static/js/main.a5cafc46.chunk.js"
+    "static/js/runtime-main.6c183abd.js",
+    "static/js/2.a59d994f.chunk.js",
+    "static/css/main.c7b93716.chunk.css",
+    "static/js/main.d982754e.chunk.js"
   ]
 }
